@@ -23,6 +23,24 @@
         "id": "https://CJoeyKoo.github.io/Lana-PR-VG/lana-video-games/canvas-1/canvas",
         "type": "Canvas",
         "duration": 263.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://CJoeyKoo.github.io/Lana-PR-VG/annotations/lana-video-games-canvas-1-vehicle.json",
+            "label": {
+              "none": ["Vehicle"]
+            }
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://CJoeyKoo.github.io/Lana-PR-VG/annotations/lana-video-games-canvas-1-past.json",
+            "label": {
+              "none": ["Past"]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://CJoeyKoo.github.io/Lana-PR-VG/lana-video-games/canvas-1/paintings",
