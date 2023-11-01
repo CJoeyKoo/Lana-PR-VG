@@ -1,5 +1,5 @@
 ---
-layout: aviary
+layout: item
 title: Lana-VG
 manifest_name: lana-vg
 permalink: lana-vg
