@@ -1,0 +1,48 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://CJoeyKoo.github.io/Lana-PR-VG/lana-vg/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Lana-VG" ] },
+    "homepage": [
+      {
+        "id": "https://ia600508.us.archive.org/3/items/Lana_Del_Rey_Video_Games/Lana%20Del%20Rey_Video%20Games.mp4",
+        "type": "Text",
+        "label": { "en": [ "Lana-VG" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://ia600508.us.archive.org/3/items/Lana_Del_Rey_Video_Games/Lana%20Del%20Rey_Video%20Games.mp4",
+        "type": "Agent",
+        "label": { "en": [ "Internet Archive" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://CJoeyKoo.github.io/Lana-PR-VG/lana-vg/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": https://ia600508.us.archive.org/3/items/Lana_Del_Rey_Video_Games/Lana%20Del%20Rey_Video%20Games.mp4,
+        "items": [
+          {
+            "id": "https://CJoeyKoo.github.io/Lana-PR-VG/lana-vg/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://CJoeyKoo.github.io/Lana-PR-VG/lana-vg/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://ia600508.us.archive.org/3/items/Lana_Del_Rey_Video_Games/Lana%20Del%20Rey_Video%20Games.mp4https://ia600508.us.archive.org/3/items/Lana_Del_Rey_Video_Games/Lana%20Del%20Rey_Video%20Games.mp4",
+                    "type": "Video",
+                    "format": "video/mp4",
+                    "duration": https://ia600508.us.archive.org/3/items/Lana_Del_Rey_Video_Games/Lana%20Del%20Rey_Video%20Games.mp4
+                },
+                "target": "https://CJoeyKoo.github.io/Lana-PR-VG/lana-vg/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
